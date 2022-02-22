@@ -2,5 +2,7 @@
 This project takes the path of a text file that contains logs and calculates the time taken for an event to finish.
 
 ## Prerequisites
-- Java 8 (Oracle Java SE jdk-8u311-linux-x64.rpm)
+- IDE (using Visual Studio and/or IntelliJ Webstorm for MacOS)
+- Java 8 (Oracle Java SE jdk-8u311-windows-x64 or jdk-8u311-linux-x64.rpm for macos)
 - Gradle
+- Git Bash would be recommended
