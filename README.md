@@ -7,11 +7,13 @@ This project takes the path of a text file that contains logs and calculates the
 
     Please run the following to check your version of Java is installed correctly
         ``` $ java -version
-            java version "1.8.0_121"
+            $ java version "1.8.0_121"
         ```
 
-- Gradle
-- Git Bash would be recommended for windows
+- Gradle 7.4
+- Git Bash is recommended not essential
+- Maven 3.3+ require JDK 1.7 and above
+- Some decent Java and gradle knowledge base is assumed
 
 ### Notes
 If your Operating system is windows 7 or later; please enable 'Developer Mode' in the following path: 
