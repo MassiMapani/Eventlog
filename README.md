@@ -38,4 +38,5 @@ Environment Variables can be accessed and set from the Control Panel, including 
  This will build the project. Once complete, use the following command
 
  ```  gradlew tasks  ```
+ 
 This will provide the list of tasks present for a cache build. From this point on, coding for the logic provided in the Report can be done.
