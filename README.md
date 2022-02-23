@@ -6,7 +6,9 @@ This project takes the path of a text file that contains logs and calculates the
 - Java 8 (Oracle Java SE jdk-8u311-windows-x64 or jdk-8u311-linux-x64.rpm for macos) Please make use of the [documentation](https://docs.oracle.com/javase/8/docs/) 
 
     Please run the following to check your version of Java is installed correctly
+    
         ``` $ java -version
+        
             $ java version "1.8.0_121"
         ```
 
